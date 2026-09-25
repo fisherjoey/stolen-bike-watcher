@@ -8,10 +8,8 @@ import json
 import random
 from pathlib import Path
 
-from sbw.catalog import MODELS
-from sbw.geo import CITIES
-
-OUT = Path(__file__).parent / "data"
+from .catalog import MODELS
+from .geo import CITIES
 
 REPORTS = [
     {
@@ -151,7 +149,7 @@ def filler(rng, n):
     return out
 
 
-def main():
+def build(out: Path):
     rng = random.Random(42)
     rows = HARD_CASES + DECOYS + filler(rng, 200)
     rng.shuffle(rows)
@@ -164,12 +162,9 @@ def main():
             labels[lid] = truth
     reports = [{**r, "stolen_coordinates": list(CITIES[r["stolen_city"]])} for r in REPORTS]
 
-    OUT.mkdir(exist_ok=True)
-    (OUT / "stolen_reports.json").write_text(json.dumps(reports, indent=2))
-    (OUT / "listings.json").write_text(json.dumps(listings, indent=2))
-    (OUT / "labels.json").write_text(json.dumps(labels, indent=2))
+    out.mkdir(parents=True, exist_ok=True)
+    (out / "stolen_reports.json").write_text(json.dumps(reports, indent=2))
+    (out / "listings.json").write_text(json.dumps(listings, indent=2))
+    (out / "labels.json").write_text(json.dumps(labels, indent=2))
     print(f"{len(reports)} reports, {len(listings)} listings, {len(labels)} true matches")
 
-
-if __name__ == "__main__":
-    main()
