@@ -1,0 +1,116 @@
+[
+  {
+    "id": "R1",
+    "manufacturer_name": "Trek",
+    "frame_model": "Marlin 7",
+    "year": 2022,
+    "frame_colors": [
+      "red",
+      "black"
+    ],
+    "frame_size": "L",
+    "serial": "WTU284C0412K",
+    "stolen_city": "Calgary",
+    "date_stolen": "2026-09-10",
+    "features": [
+      "white fizik saddle",
+      "calgary bike co-op sticker",
+      "bent front rotor",
+      "shimano deore"
+    ],
+    "stolen_coordinates": [
+      51.045,
+      -114.057
+    ]
+  },
+  {
+    "id": "R2",
+    "manufacturer_name": "Specialized",
+    "frame_model": "Sirrus X 3.0",
+    "year": 2023,
+    "frame_colors": [
+      "black"
+    ],
+    "frame_size": "M",
+    "serial": "WSBC604177311",
+    "stolen_city": "Calgary",
+    "date_stolen": "2026-09-15",
+    "features": [
+      "rear rack",
+      "full fenders",
+      "brass bell",
+      "ergon grips"
+    ],
+    "stolen_coordinates": [
+      51.045,
+      -114.057
+    ]
+  },
+  {
+    "id": "R3",
+    "manufacturer_name": "Cannondale",
+    "frame_model": "Topstone 2",
+    "year": 2021,
+    "frame_colors": [
+      "green"
+    ],
+    "frame_size": "54",
+    "serial": "CD21TS009931",
+    "stolen_city": "Airdrie",
+    "date_stolen": "2026-09-01",
+    "features": [
+      "orange bar tape",
+      "tubeless wheels",
+      "frame bag",
+      "wtb riddler tires"
+    ],
+    "stolen_coordinates": [
+      51.292,
+      -114.014
+    ]
+  },
+  {
+    "id": "R4",
+    "manufacturer_name": "Rocky Mountain",
+    "frame_model": "Element 30",
+    "year": 2020,
+    "frame_colors": [
+      "blue"
+    ],
+    "frame_size": "L",
+    "serial": "RM20E30L7781",
+    "stolen_city": "Cochrane",
+    "date_stolen": "2026-08-20",
+    "features": [
+      "fox fork",
+      "dropper post",
+      "maxxis minion tires",
+      "purple pedals"
+    ],
+    "stolen_coordinates": [
+      51.189,
+      -114.467
+    ]
+  },
+  {
+    "id": "R5",
+    "manufacturer_name": "Giant",
+    "frame_model": "Escape 3",
+    "year": 2019,
+    "frame_colors": [
+      "grey"
+    ],
+    "frame_size": "M",
+    "serial": "GT19E3M22K",
+    "stolen_city": "Calgary",
+    "date_stolen": "2026-09-18",
+    "features": [
+      "kickstand",
+      "black wire basket"
+    ],
+    "stolen_coordinates": [
+      51.045,
+      -114.057
+    ]
+  }
+]

@@ -1,0 +1,3355 @@
+[
+  {
+    "id": "L000",
+    "source": "fb_marketplace",
+    "title": "Specialized Rockhopper yellow S",
+    "description": "Yellow mtb bike, size S. clipless pedals, fenders, bell.",
+    "price": 360,
+    "city": "Edmonton",
+    "posted_at": "2026-09-14",
+    "photo_tags": [
+      "yellow frame",
+      "clipless pedals",
+      "fenders",
+      "bell"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L001",
+    "source": "fb_marketplace",
+    "title": "Full suspension mountain bike blue",
+    "description": "Great shape, dropper, Fox fork. Must go today $400",
+    "price": 400,
+    "city": "Calgary",
+    "posted_at": "2026-08-24",
+    "photo_tags": [
+      "blue frame",
+      "full suspension",
+      "fox fork",
+      "purple pedals",
+      "minion tires"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L002",
+    "source": "kijiji",
+    "title": "Soul orange XS",
+    "description": "Orange mtb bike, size XS. kickstand.",
+    "price": 520,
+    "city": "Edmonton",
+    "posted_at": "2026-09-10",
+    "photo_tags": [
+      "orange frame",
+      "kickstand"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L003",
+    "source": "fb_marketplace",
+    "title": "Trek Fx 2 yellow XS",
+    "description": "Yellow hybrid bike, size XS. bell, bottle cage.",
+    "price": 530,
+    "city": "Okotoks",
+    "posted_at": "2026-08-02",
+    "photo_tags": [
+      "yellow frame",
+      "bell",
+      "bottle cage"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L004",
+    "source": "fb_marketplace",
+    "title": "Trek Marlin 7 black XL",
+    "description": "Black mtb bike, size XL. clipless pedals.",
+    "price": 650,
+    "city": "Lethbridge",
+    "posted_at": "2026-08-11",
+    "photo_tags": [
+      "black frame",
+      "clipless pedals"
+    ],
+    "lat": 49.694,
+    "lng": -112.842
+  },
+  {
+    "id": "L005",
+    "source": "kijiji",
+    "title": "Giant Talon 2 grey XS",
+    "description": "Grey mtb bike, size XS. bottle cage, bell, clipless pedals.",
+    "price": 360,
+    "city": "Calgary",
+    "posted_at": "2026-09-10",
+    "photo_tags": [
+      "grey frame",
+      "bottle cage",
+      "bell",
+      "clipless pedals"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L006",
+    "source": "fb_marketplace",
+    "title": "Fx 2 orange L",
+    "description": "Orange hybrid bike, size L. bottle cage.",
+    "price": 380,
+    "city": "Calgary",
+    "posted_at": "2026-08-25",
+    "photo_tags": [
+      "orange frame",
+      "bottle cage"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L007",
+    "source": "fb_marketplace",
+    "title": "Devinci Milano blue L",
+    "description": "Blue hybrid bike, size L. kickstand, new tires, clipless pedals.",
+    "price": 530,
+    "city": "Airdrie",
+    "posted_at": "2026-09-11",
+    "photo_tags": [
+      "blue frame",
+      "kickstand",
+      "new tires",
+      "clipless pedals"
+    ],
+    "lat": 51.292,
+    "lng": -114.014
+  },
+  {
+    "id": "L008",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Soul yellow S",
+    "description": "Yellow mtb bike, size S. dropper post, lights, bell.",
+    "price": 440,
+    "city": "Calgary",
+    "posted_at": "2026-09-06",
+    "photo_tags": [
+      "yellow frame",
+      "dropper post",
+      "lights",
+      "bell"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L009",
+    "source": "kijiji",
+    "title": "Raleigh Cadent 2 red XS",
+    "description": "Red hybrid bike, size XS. fenders, rack.",
+    "price": 420,
+    "city": "Chestermere",
+    "posted_at": "2026-08-07",
+    "photo_tags": [
+      "red frame",
+      "fenders",
+      "rack"
+    ],
+    "lat": 51.05,
+    "lng": -113.822
+  },
+  {
+    "id": "L010",
+    "source": "kijiji",
+    "title": "Kona Rove blue S",
+    "description": "Blue gravel bike, size S. Stock.",
+    "price": 1110,
+    "city": "Edmonton",
+    "posted_at": "2026-08-15",
+    "photo_tags": [
+      "blue frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L011",
+    "source": "fb_marketplace",
+    "title": "Santa Cruz Chameleon orange XS",
+    "description": "Orange mtb bike, size XS. bell.",
+    "price": 1860,
+    "city": "Okotoks",
+    "posted_at": "2026-08-04",
+    "photo_tags": [
+      "orange frame",
+      "bell"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L012",
+    "source": "fb_marketplace",
+    "title": "Milano red M",
+    "description": "Red hybrid bike, size M. Stock.",
+    "price": 370,
+    "city": "Calgary",
+    "posted_at": "2026-08-15",
+    "photo_tags": [
+      "red frame"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L013",
+    "source": "fb_marketplace",
+    "title": "Kona Dew yellow XL",
+    "description": "Yellow hybrid bike, size XL. lights, kickstand.",
+    "price": 350,
+    "city": "Edmonton",
+    "posted_at": "2026-08-22",
+    "photo_tags": [
+      "yellow frame",
+      "lights",
+      "kickstand"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L014",
+    "source": "kijiji",
+    "title": "Rocky Mountain Soul yellow XS",
+    "description": "Yellow mtb bike, size XS. dropper post.",
+    "price": 470,
+    "city": "Red Deer",
+    "posted_at": "2026-08-21",
+    "photo_tags": [
+      "yellow frame",
+      "dropper post"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L015",
+    "source": "fb_marketplace",
+    "title": "Giant Contend 3 yellow S",
+    "description": "Yellow road bike, size S. tubeless.",
+    "price": 540,
+    "city": "Calgary",
+    "posted_at": "2026-09-02",
+    "photo_tags": [
+      "yellow frame",
+      "tubeless"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L016",
+    "source": "fb_marketplace",
+    "title": "Trek Domane Al 2 white XS",
+    "description": "White road bike, size XS. lights, bell, clipless pedals.",
+    "price": 930,
+    "city": "Calgary",
+    "posted_at": "2026-09-21",
+    "photo_tags": [
+      "white frame",
+      "lights",
+      "bell",
+      "clipless pedals"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L017",
+    "source": "fb_marketplace",
+    "title": "Kona Rove orange L",
+    "description": "Orange gravel bike, size L. lights.",
+    "price": 1290,
+    "city": "Calgary",
+    "posted_at": "2026-09-05",
+    "photo_tags": [
+      "orange frame",
+      "lights"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L018",
+    "source": "kijiji",
+    "title": "Giant Escape 3 orange L",
+    "description": "Orange hybrid bike, size L. clipless pedals, bottle cage.",
+    "price": 200,
+    "city": "Edmonton",
+    "posted_at": "2026-09-03",
+    "photo_tags": [
+      "orange frame",
+      "clipless pedals",
+      "bottle cage"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L019",
+    "source": "fb_marketplace",
+    "title": "Cannondale Topstone 2 yellow XS",
+    "description": "Yellow gravel bike, size XS. kickstand, lights, rack.",
+    "price": 1230,
+    "city": "Lethbridge",
+    "posted_at": "2026-08-15",
+    "photo_tags": [
+      "yellow frame",
+      "kickstand",
+      "lights",
+      "rack"
+    ],
+    "lat": 49.694,
+    "lng": -112.842
+  },
+  {
+    "id": "L020",
+    "source": "fb_marketplace",
+    "title": "Norco Storm 2 green M",
+    "description": "Green mtb bike, size M. bell.",
+    "price": 430,
+    "city": "Calgary",
+    "posted_at": "2026-09-02",
+    "photo_tags": [
+      "green frame",
+      "bell"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L021",
+    "source": "kijiji",
+    "title": "Specialized Rockhopper yellow XS",
+    "description": "Yellow mtb bike, size XS. Stock.",
+    "price": 550,
+    "city": "Edmonton",
+    "posted_at": "2026-09-16",
+    "photo_tags": [
+      "yellow frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L022",
+    "source": "fb_marketplace",
+    "title": "Specialized hybrid, size M, rack + fenders",
+    "description": "Matte grey Specialized commuter. Rear rack, full fenders, bell, Ergon grips. Ready to ride.",
+    "price": 350,
+    "city": "Chestermere",
+    "posted_at": "2026-09-20",
+    "photo_tags": [
+      "grey frame",
+      "rear rack",
+      "fenders",
+      "bell",
+      "flat bar"
+    ],
+    "lat": 51.05,
+    "lng": -113.822
+  },
+  {
+    "id": "L023",
+    "source": "kijiji",
+    "title": "Specialized Allez black S",
+    "description": "Black road bike, size S. bell, kickstand.",
+    "price": 920,
+    "city": "Calgary",
+    "posted_at": "2026-09-19",
+    "photo_tags": [
+      "black frame",
+      "bell",
+      "kickstand"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L024",
+    "source": "kijiji",
+    "title": "Giant Contend 3 grey XL",
+    "description": "Grey road bike, size XL. lights, bell, kickstand.",
+    "price": 780,
+    "city": "Calgary",
+    "posted_at": "2026-09-24",
+    "photo_tags": [
+      "grey frame",
+      "lights",
+      "bell",
+      "kickstand"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L025",
+    "source": "fb_marketplace",
+    "title": "Trek Fx 2 green XS",
+    "description": "Green hybrid bike, size XS. Stock.",
+    "price": 600,
+    "city": "Calgary",
+    "posted_at": "2026-08-03",
+    "photo_tags": [
+      "green frame"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L026",
+    "source": "kijiji",
+    "title": "Trek Marlin 7 2022 blue medium",
+    "description": "Original owner, receipt available. Blue, size M, Deore.",
+    "price": 750,
+    "city": "Calgary",
+    "posted_at": "2026-09-14",
+    "photo_tags": [
+      "blue frame",
+      "black saddle",
+      "hardtail"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L027",
+    "source": "fb_marketplace",
+    "title": "Norco Storm 2 black L",
+    "description": "Black mtb bike, size L. tubeless, lights, dropper post.",
+    "price": 640,
+    "city": "Lethbridge",
+    "posted_at": "2026-08-01",
+    "photo_tags": [
+      "black frame",
+      "tubeless",
+      "lights",
+      "dropper post"
+    ],
+    "lat": 49.694,
+    "lng": -112.842
+  },
+  {
+    "id": "L028",
+    "source": "fb_marketplace",
+    "title": "Cannondale Topstone 2 green XL",
+    "description": "Green gravel bike, size XL. Stock.",
+    "price": 1280,
+    "city": "Edmonton",
+    "posted_at": "2026-09-23",
+    "photo_tags": [
+      "green frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L029",
+    "source": "fb_marketplace",
+    "title": "Trail 5 white XL",
+    "description": "White mtb bike, size XL. bell, dropper post.",
+    "price": 440,
+    "city": "Canmore",
+    "posted_at": "2026-09-18",
+    "photo_tags": [
+      "white frame",
+      "bell",
+      "dropper post"
+    ],
+    "lat": 51.089,
+    "lng": -115.358
+  },
+  {
+    "id": "L030",
+    "source": "kijiji",
+    "title": "Specialized Sirrus X 3.0 red S",
+    "description": "Red hybrid bike, size S. tubeless, lights, bell.",
+    "price": 550,
+    "city": "Lethbridge",
+    "posted_at": "2026-08-16",
+    "photo_tags": [
+      "red frame",
+      "tubeless",
+      "lights",
+      "bell"
+    ],
+    "lat": 49.694,
+    "lng": -112.842
+  },
+  {
+    "id": "L031",
+    "source": "kijiji",
+    "title": "Cannondale Trail 5 white S",
+    "description": "White mtb bike, size S. Stock.",
+    "price": 470,
+    "city": "Calgary",
+    "posted_at": "2026-08-05",
+    "photo_tags": [
+      "white frame"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L032",
+    "source": "fb_marketplace",
+    "title": "Trek Marlin 7 white XS",
+    "description": "White mtb bike, size XS. rack, tubeless.",
+    "price": 450,
+    "city": "Cochrane",
+    "posted_at": "2026-08-16",
+    "photo_tags": [
+      "white frame",
+      "rack",
+      "tubeless"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L033",
+    "source": "kijiji",
+    "title": "Raleigh Cadent 2 black L",
+    "description": "Black hybrid bike, size L. tubeless, fenders, clipless pedals.",
+    "price": 340,
+    "city": "Edmonton",
+    "posted_at": "2026-08-08",
+    "photo_tags": [
+      "black frame",
+      "tubeless",
+      "fenders",
+      "clipless pedals"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L034",
+    "source": "kijiji",
+    "title": "Specialized Rockhopper orange XL",
+    "description": "Orange mtb bike, size XL. Stock.",
+    "price": 650,
+    "city": "Calgary",
+    "posted_at": "2026-08-17",
+    "photo_tags": [
+      "orange frame"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L035",
+    "source": "kijiji",
+    "title": "Specialized Allez blue M",
+    "description": "Blue road bike, size M. bell.",
+    "price": 950,
+    "city": "Airdrie",
+    "posted_at": "2026-08-05",
+    "photo_tags": [
+      "blue frame",
+      "bell"
+    ],
+    "lat": 51.292,
+    "lng": -114.014
+  },
+  {
+    "id": "L036",
+    "source": "fb_marketplace",
+    "title": "Santa Cruz Chameleon yellow XL",
+    "description": "Yellow mtb bike, size XL. fenders.",
+    "price": 2180,
+    "city": "Calgary",
+    "posted_at": "2026-08-20",
+    "photo_tags": [
+      "yellow frame",
+      "fenders"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L037",
+    "source": "kijiji",
+    "title": "Contend 3 white XL",
+    "description": "White road bike, size XL. kickstand.",
+    "price": 440,
+    "city": "Calgary",
+    "posted_at": "2026-09-20",
+    "photo_tags": [
+      "white frame",
+      "kickstand"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L038",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Soul red XL",
+    "description": "Red mtb bike, size XL. rack, bell, bottle cage.",
+    "price": 400,
+    "city": "Edmonton",
+    "posted_at": "2026-08-08",
+    "photo_tags": [
+      "red frame",
+      "rack",
+      "bell",
+      "bottle cage"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L039",
+    "source": "kijiji",
+    "title": "Giant Contend 3 blue XL",
+    "description": "Blue road bike, size XL. Stock.",
+    "price": 520,
+    "city": "Red Deer",
+    "posted_at": "2026-09-13",
+    "photo_tags": [
+      "blue frame"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L040",
+    "source": "fb_marketplace",
+    "title": "Marlin 7 blue L",
+    "description": "Blue mtb bike, size L. dropper post, rack.",
+    "price": 550,
+    "city": "Calgary",
+    "posted_at": "2026-09-25",
+    "photo_tags": [
+      "blue frame",
+      "dropper post",
+      "rack"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L041",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Soul white XL",
+    "description": "White mtb bike, size XL. fenders.",
+    "price": 520,
+    "city": "Airdrie",
+    "posted_at": "2026-08-16",
+    "photo_tags": [
+      "white frame",
+      "fenders"
+    ],
+    "lat": 51.292,
+    "lng": -114.014
+  },
+  {
+    "id": "L042",
+    "source": "kijiji",
+    "title": "Trek Marlin 7 grey L",
+    "description": "Grey mtb bike, size L. bottle cage, clipless pedals, fenders.",
+    "price": 560,
+    "city": "Calgary",
+    "posted_at": "2026-08-12",
+    "photo_tags": [
+      "grey frame",
+      "bottle cage",
+      "clipless pedals",
+      "fenders"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L043",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Element 30 blue L",
+    "description": "Blue mtb bike, size L. bottle cage, kickstand, bell.",
+    "price": 1430,
+    "city": "Chestermere",
+    "posted_at": "2026-08-23",
+    "photo_tags": [
+      "blue frame",
+      "bottle cage",
+      "kickstand",
+      "bell"
+    ],
+    "lat": 51.05,
+    "lng": -113.822
+  },
+  {
+    "id": "L044",
+    "source": "kijiji",
+    "title": "Santa Cruz Chameleon red M",
+    "description": "Red mtb bike, size M. bell.",
+    "price": 2320,
+    "city": "Calgary",
+    "posted_at": "2026-08-21",
+    "photo_tags": [
+      "red frame",
+      "bell"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L045",
+    "source": "fb_marketplace",
+    "title": "Talon 2 grey L",
+    "description": "Grey mtb bike, size L. lights, dropper post.",
+    "price": 400,
+    "city": "Chestermere",
+    "posted_at": "2026-09-13",
+    "photo_tags": [
+      "grey frame",
+      "lights",
+      "dropper post"
+    ],
+    "lat": 51.05,
+    "lng": -113.822
+  },
+  {
+    "id": "L046",
+    "source": "kijiji",
+    "title": "Raleigh Cadent 2 orange M",
+    "description": "Orange hybrid bike, size M. Stock.",
+    "price": 390,
+    "city": "Edmonton",
+    "posted_at": "2026-09-07",
+    "photo_tags": [
+      "orange frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L047",
+    "source": "fb_marketplace",
+    "title": "Cannondale Trail 5 black XL",
+    "description": "Black mtb bike, size XL. tubeless, fenders, clipless pedals.",
+    "price": 540,
+    "city": "Calgary",
+    "posted_at": "2026-09-15",
+    "photo_tags": [
+      "black frame",
+      "tubeless",
+      "fenders",
+      "clipless pedals"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L048",
+    "source": "fb_marketplace",
+    "title": "Specialized Sirrus X 3.0 orange M",
+    "description": "Orange hybrid bike, size M. tubeless, rack.",
+    "price": 690,
+    "city": "Edmonton",
+    "posted_at": "2026-08-19",
+    "photo_tags": [
+      "orange frame",
+      "tubeless",
+      "rack"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L049",
+    "source": "fb_marketplace",
+    "title": "Cannondale Topstone 2 white S",
+    "description": "White gravel bike, size S. tubeless, fenders, lights.",
+    "price": 1270,
+    "city": "Edmonton",
+    "posted_at": "2026-09-22",
+    "photo_tags": [
+      "white frame",
+      "tubeless",
+      "fenders",
+      "lights"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L050",
+    "source": "kijiji",
+    "title": "Fx 2 black XS",
+    "description": "Black hybrid bike, size XS. new tires, bell, fenders.",
+    "price": 370,
+    "city": "Calgary",
+    "posted_at": "2026-09-18",
+    "photo_tags": [
+      "black frame",
+      "new tires",
+      "bell",
+      "fenders"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L051",
+    "source": "kijiji",
+    "title": "Giant Escape 3 hybrid",
+    "description": "Grey Escape 3, size M, basket and kickstand included.",
+    "price": 320,
+    "city": "Okotoks",
+    "posted_at": "2026-09-21",
+    "photo_tags": [
+      "grey frame",
+      "kickstand",
+      "wire basket",
+      "silver basket"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L052",
+    "source": "fb_marketplace",
+    "title": "Cannondale Trail 5 green XS",
+    "description": "Green mtb bike, size XS. clipless pedals.",
+    "price": 490,
+    "city": "Red Deer",
+    "posted_at": "2026-09-03",
+    "photo_tags": [
+      "green frame",
+      "clipless pedals"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L053",
+    "source": "kijiji",
+    "title": "Giant Escape 3 blue XL",
+    "description": "Blue hybrid bike, size XL. new tires, bell, clipless pedals.",
+    "price": 380,
+    "city": "Airdrie",
+    "posted_at": "2026-09-08",
+    "photo_tags": [
+      "blue frame",
+      "new tires",
+      "bell",
+      "clipless pedals"
+    ],
+    "lat": 51.292,
+    "lng": -114.014
+  },
+  {
+    "id": "L054",
+    "source": "fb_marketplace",
+    "title": "Giant Contend 3 white S",
+    "description": "White road bike, size S. kickstand, dropper post.",
+    "price": 810,
+    "city": "Lethbridge",
+    "posted_at": "2026-09-03",
+    "photo_tags": [
+      "white frame",
+      "kickstand",
+      "dropper post"
+    ],
+    "lat": 49.694,
+    "lng": -112.842
+  },
+  {
+    "id": "L055",
+    "source": "fb_marketplace",
+    "title": "Devinci Milano white S",
+    "description": "White hybrid bike, size S. lights.",
+    "price": 590,
+    "city": "Calgary",
+    "posted_at": "2026-09-15",
+    "photo_tags": [
+      "white frame",
+      "lights"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L056",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Element 30 orange L",
+    "description": "Orange mtb bike, size L. fenders, lights, rack.",
+    "price": 1910,
+    "city": "Lethbridge",
+    "posted_at": "2026-08-20",
+    "photo_tags": [
+      "orange frame",
+      "fenders",
+      "lights",
+      "rack"
+    ],
+    "lat": 49.694,
+    "lng": -112.842
+  },
+  {
+    "id": "L057",
+    "source": "kijiji",
+    "title": "Santa Cruz Chameleon white XS",
+    "description": "White mtb bike, size XS. new tires, clipless pedals, kickstand.",
+    "price": 2590,
+    "city": "Calgary",
+    "posted_at": "2026-09-20",
+    "photo_tags": [
+      "white frame",
+      "new tires",
+      "clipless pedals",
+      "kickstand"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L058",
+    "source": "fb_marketplace",
+    "title": "Trek Domane Al 2 yellow L",
+    "description": "Yellow road bike, size L. bottle cage, bell.",
+    "price": 670,
+    "city": "Cochrane",
+    "posted_at": "2026-08-08",
+    "photo_tags": [
+      "yellow frame",
+      "bottle cage",
+      "bell"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L059",
+    "source": "kijiji",
+    "title": "Norco Fluid Fs 3 white XL",
+    "description": "White mtb bike, size XL. dropper post, lights.",
+    "price": 1210,
+    "city": "Edmonton",
+    "posted_at": "2026-09-08",
+    "photo_tags": [
+      "white frame",
+      "dropper post",
+      "lights"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L060",
+    "source": "kijiji",
+    "title": "Giant Contend 3 grey XS",
+    "description": "Grey road bike, size XS. tubeless.",
+    "price": 410,
+    "city": "Edmonton",
+    "posted_at": "2026-09-14",
+    "photo_tags": [
+      "grey frame",
+      "tubeless"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L061",
+    "source": "kijiji",
+    "title": "Sirrus X 3.0 white XL",
+    "description": "White hybrid bike, size XL. kickstand, clipless pedals.",
+    "price": 650,
+    "city": "Canmore",
+    "posted_at": "2026-09-04",
+    "photo_tags": [
+      "white frame",
+      "kickstand",
+      "clipless pedals"
+    ],
+    "lat": 51.089,
+    "lng": -115.358
+  },
+  {
+    "id": "L062",
+    "source": "fb_marketplace",
+    "title": "Cadent 2 yellow L",
+    "description": "Yellow hybrid bike, size L. Stock.",
+    "price": 220,
+    "city": "Okotoks",
+    "posted_at": "2026-09-18",
+    "photo_tags": [
+      "yellow frame"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L063",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Soul red S",
+    "description": "Red mtb bike, size S. tubeless, kickstand, bottle cage.",
+    "price": 300,
+    "city": "Calgary",
+    "posted_at": "2026-08-07",
+    "photo_tags": [
+      "red frame",
+      "tubeless",
+      "kickstand",
+      "bottle cage"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L064",
+    "source": "kijiji",
+    "title": "Giant Contend 3 red XL",
+    "description": "Red road bike, size XL. lights, kickstand, new tires.",
+    "price": 520,
+    "city": "Cochrane",
+    "posted_at": "2026-09-13",
+    "photo_tags": [
+      "red frame",
+      "lights",
+      "kickstand",
+      "new tires"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L065",
+    "source": "fb_marketplace",
+    "title": "Giant Escape 3 grey XL",
+    "description": "Grey hybrid bike, size XL. bottle cage, kickstand.",
+    "price": 310,
+    "city": "Cochrane",
+    "posted_at": "2026-08-07",
+    "photo_tags": [
+      "grey frame",
+      "bottle cage",
+      "kickstand"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L066",
+    "source": "kijiji",
+    "title": "Devinci Milano blue S",
+    "description": "Blue hybrid bike, size S. dropper post, lights, tubeless.",
+    "price": 490,
+    "city": "Calgary",
+    "posted_at": "2026-09-15",
+    "photo_tags": [
+      "blue frame",
+      "dropper post",
+      "lights",
+      "tubeless"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L067",
+    "source": "fb_marketplace",
+    "title": "Talon 2 orange XL",
+    "description": "Orange mtb bike, size XL. fenders.",
+    "price": 660,
+    "city": "Lethbridge",
+    "posted_at": "2026-09-06",
+    "photo_tags": [
+      "orange frame",
+      "fenders"
+    ],
+    "lat": 49.694,
+    "lng": -112.842
+  },
+  {
+    "id": "L068",
+    "source": "kijiji",
+    "title": "Cadent 2 white XS",
+    "description": "White hybrid bike, size XS. dropper post.",
+    "price": 270,
+    "city": "Edmonton",
+    "posted_at": "2026-08-07",
+    "photo_tags": [
+      "white frame",
+      "dropper post"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L069",
+    "source": "kijiji",
+    "title": "Trek Marlin 7 red large - quick sale",
+    "description": "Red/black Trek Marlin 7 size L. Fizik saddle, Deore drivetrain. Front rotor rubs a little. $300 firm, cash only.",
+    "price": 300,
+    "city": "Calgary",
+    "posted_at": "2026-09-12",
+    "photo_tags": [
+      "red frame",
+      "white saddle",
+      "sticker on top tube",
+      "hardtail"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L070",
+    "source": "kijiji",
+    "title": "Rocky Mountain Soul orange XL",
+    "description": "Orange mtb bike, size XL. rack, fenders, tubeless.",
+    "price": 500,
+    "city": "Red Deer",
+    "posted_at": "2026-09-02",
+    "photo_tags": [
+      "orange frame",
+      "rack",
+      "fenders",
+      "tubeless"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L071",
+    "source": "kijiji",
+    "title": "Trek Domane Al 2 blue XL",
+    "description": "Blue road bike, size XL. rack.",
+    "price": 780,
+    "city": "Edmonton",
+    "posted_at": "2026-09-24",
+    "photo_tags": [
+      "blue frame",
+      "rack"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L072",
+    "source": "fb_marketplace",
+    "title": "Devinci Milano black XS",
+    "description": "Black hybrid bike, size XS. rack.",
+    "price": 520,
+    "city": "Cochrane",
+    "posted_at": "2026-08-02",
+    "photo_tags": [
+      "black frame",
+      "rack"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L073",
+    "source": "fb_marketplace",
+    "title": "Norco Fluid Fs 3 blue L",
+    "description": "Blue mtb bike, size L. Stock.",
+    "price": 1930,
+    "city": "Edmonton",
+    "posted_at": "2026-09-11",
+    "photo_tags": [
+      "blue frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L074",
+    "source": "kijiji",
+    "title": "Santa Cruz Chameleon green M",
+    "description": "Green mtb bike, size M. bell, clipless pedals.",
+    "price": 1930,
+    "city": "Calgary",
+    "posted_at": "2026-09-25",
+    "photo_tags": [
+      "green frame",
+      "bell",
+      "clipless pedals"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L075",
+    "source": "fb_marketplace",
+    "title": "Giant Escape 3 yellow XL",
+    "description": "Yellow hybrid bike, size XL. rack, bottle cage, tubeless.",
+    "price": 260,
+    "city": "Chestermere",
+    "posted_at": "2026-09-20",
+    "photo_tags": [
+      "yellow frame",
+      "rack",
+      "bottle cage",
+      "tubeless"
+    ],
+    "lat": 51.05,
+    "lng": -113.822
+  },
+  {
+    "id": "L076",
+    "source": "kijiji",
+    "title": "Specialized Rockhopper orange L",
+    "description": "Orange mtb bike, size L. bottle cage, clipless pedals.",
+    "price": 550,
+    "city": "Edmonton",
+    "posted_at": "2026-08-24",
+    "photo_tags": [
+      "orange frame",
+      "bottle cage",
+      "clipless pedals"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L077",
+    "source": "fb_marketplace",
+    "title": "Kona Rove yellow S",
+    "description": "Yellow gravel bike, size S. kickstand, rack, clipless pedals.",
+    "price": 600,
+    "city": "Calgary",
+    "posted_at": "2026-09-13",
+    "photo_tags": [
+      "yellow frame",
+      "kickstand",
+      "rack",
+      "clipless pedals"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L078",
+    "source": "fb_marketplace",
+    "title": "Raleigh Cadent 2 orange M",
+    "description": "Orange hybrid bike, size M. clipless pedals, bottle cage.",
+    "price": 250,
+    "city": "Calgary",
+    "posted_at": "2026-08-19",
+    "photo_tags": [
+      "orange frame",
+      "clipless pedals",
+      "bottle cage"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L079",
+    "source": "kijiji",
+    "title": "Cannondale Topstone 2 green",
+    "description": "Green Topstone 2, size 56, black bar tape. Listed since spring.",
+    "price": 1300,
+    "city": "Calgary",
+    "posted_at": "2026-08-15",
+    "photo_tags": [
+      "green frame",
+      "black bar tape",
+      "drop bar"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L080",
+    "source": "kijiji",
+    "title": "Kona Rove yellow S",
+    "description": "Yellow gravel bike, size S. new tires, dropper post.",
+    "price": 1060,
+    "city": "Okotoks",
+    "posted_at": "2026-08-25",
+    "photo_tags": [
+      "yellow frame",
+      "new tires",
+      "dropper post"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L081",
+    "source": "fb_marketplace",
+    "title": "Norco Fluid Fs 3 red S",
+    "description": "Red mtb bike, size S. rack, bell, lights.",
+    "price": 1900,
+    "city": "Red Deer",
+    "posted_at": "2026-09-09",
+    "photo_tags": [
+      "red frame",
+      "rack",
+      "bell",
+      "lights"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L082",
+    "source": "fb_marketplace",
+    "title": "Devinci Milano black XS",
+    "description": "Black hybrid bike, size XS. tubeless.",
+    "price": 440,
+    "city": "Calgary",
+    "posted_at": "2026-09-06",
+    "photo_tags": [
+      "black frame",
+      "tubeless"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L083",
+    "source": "fb_marketplace",
+    "title": "Specialized Sirrus X 3.0 green XS",
+    "description": "Green hybrid bike, size XS. new tires, clipless pedals, rack.",
+    "price": 730,
+    "city": "Edmonton",
+    "posted_at": "2026-09-07",
+    "photo_tags": [
+      "green frame",
+      "new tires",
+      "clipless pedals",
+      "rack"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L084",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Soul white S",
+    "description": "White mtb bike, size S. rack, bell.",
+    "price": 390,
+    "city": "Calgary",
+    "posted_at": "2026-08-04",
+    "photo_tags": [
+      "white frame",
+      "rack",
+      "bell"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L085",
+    "source": "kijiji",
+    "title": "Norco Storm 2 blue S",
+    "description": "Blue mtb bike, size S. tubeless, rack, bottle cage.",
+    "price": 360,
+    "city": "Cochrane",
+    "posted_at": "2026-09-20",
+    "photo_tags": [
+      "blue frame",
+      "tubeless",
+      "rack",
+      "bottle cage"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L086",
+    "source": "kijiji",
+    "title": "Giant Contend 3 orange XS",
+    "description": "Orange road bike, size XS. new tires.",
+    "price": 430,
+    "city": "Edmonton",
+    "posted_at": "2026-09-18",
+    "photo_tags": [
+      "orange frame",
+      "new tires"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L087",
+    "source": "fb_marketplace",
+    "title": "Devinci Milano red M",
+    "description": "Red hybrid bike, size M. fenders, kickstand.",
+    "price": 490,
+    "city": "Red Deer",
+    "posted_at": "2026-09-15",
+    "photo_tags": [
+      "red frame",
+      "fenders",
+      "kickstand"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L088",
+    "source": "kijiji",
+    "title": "Trek Fx 2 black L",
+    "description": "Black hybrid bike, size L. lights, bell.",
+    "price": 540,
+    "city": "Airdrie",
+    "posted_at": "2026-08-05",
+    "photo_tags": [
+      "black frame",
+      "lights",
+      "bell"
+    ],
+    "lat": 51.292,
+    "lng": -114.014
+  },
+  {
+    "id": "L089",
+    "source": "fb_marketplace",
+    "title": "Raleigh Cadent 2 blue M",
+    "description": "Blue hybrid bike, size M. new tires, clipless pedals.",
+    "price": 250,
+    "city": "Calgary",
+    "posted_at": "2026-08-12",
+    "photo_tags": [
+      "blue frame",
+      "new tires",
+      "clipless pedals"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L090",
+    "source": "kijiji",
+    "title": "Kona Dew red XL",
+    "description": "Red hybrid bike, size XL. bell, rack.",
+    "price": 320,
+    "city": "Lethbridge",
+    "posted_at": "2026-08-04",
+    "photo_tags": [
+      "red frame",
+      "bell",
+      "rack"
+    ],
+    "lat": 49.694,
+    "lng": -112.842
+  },
+  {
+    "id": "L091",
+    "source": "kijiji",
+    "title": "Kona Rove blue XS",
+    "description": "Blue gravel bike, size XS. Stock.",
+    "price": 1210,
+    "city": "Airdrie",
+    "posted_at": "2026-08-03",
+    "photo_tags": [
+      "blue frame"
+    ],
+    "lat": 51.292,
+    "lng": -114.014
+  },
+  {
+    "id": "L092",
+    "source": "fb_marketplace",
+    "title": "Cannondale Trail 5 grey XS",
+    "description": "Grey mtb bike, size XS. bell.",
+    "price": 510,
+    "city": "Calgary",
+    "posted_at": "2026-09-15",
+    "photo_tags": [
+      "grey frame",
+      "bell"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L093",
+    "source": "fb_marketplace",
+    "title": "Trek Marlin 7 black XS",
+    "description": "Black mtb bike, size XS. fenders, clipless pedals.",
+    "price": 760,
+    "city": "Canmore",
+    "posted_at": "2026-09-01",
+    "photo_tags": [
+      "black frame",
+      "fenders",
+      "clipless pedals"
+    ],
+    "lat": 51.089,
+    "lng": -115.358
+  },
+  {
+    "id": "L094",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Soul blue S",
+    "description": "Blue mtb bike, size S. clipless pedals, rack, dropper post.",
+    "price": 360,
+    "city": "Edmonton",
+    "posted_at": "2026-09-01",
+    "photo_tags": [
+      "blue frame",
+      "clipless pedals",
+      "rack",
+      "dropper post"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L095",
+    "source": "kijiji",
+    "title": "Norco Fluid Fs 3 green S",
+    "description": "Green mtb bike, size S. Stock.",
+    "price": 1040,
+    "city": "Edmonton",
+    "posted_at": "2026-09-13",
+    "photo_tags": [
+      "green frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L096",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Soul orange XS",
+    "description": "Orange mtb bike, size XS. fenders, clipless pedals.",
+    "price": 300,
+    "city": "Calgary",
+    "posted_at": "2026-08-22",
+    "photo_tags": [
+      "orange frame",
+      "fenders",
+      "clipless pedals"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L097",
+    "source": "fb_marketplace",
+    "title": "Norco Fluid Fs 3 orange M",
+    "description": "Orange mtb bike, size M. Stock.",
+    "price": 1560,
+    "city": "Edmonton",
+    "posted_at": "2026-08-11",
+    "photo_tags": [
+      "orange frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L098",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Element 30 yellow XS",
+    "description": "Yellow mtb bike, size XS. Stock.",
+    "price": 1940,
+    "city": "Calgary",
+    "posted_at": "2026-08-03",
+    "photo_tags": [
+      "yellow frame"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L099",
+    "source": "kijiji",
+    "title": "Cannondale Trail 5 black L",
+    "description": "Black mtb bike, size L. Stock.",
+    "price": 370,
+    "city": "Calgary",
+    "posted_at": "2026-08-18",
+    "photo_tags": [
+      "black frame"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L100",
+    "source": "kijiji",
+    "title": "Trek Marlin 7 green S",
+    "description": "Green mtb bike, size S. Stock.",
+    "price": 820,
+    "city": "Airdrie",
+    "posted_at": "2026-09-25",
+    "photo_tags": [
+      "green frame"
+    ],
+    "lat": 51.292,
+    "lng": -114.014
+  },
+  {
+    "id": "L101",
+    "source": "fb_marketplace",
+    "title": "Raleigh Cadent 2 blue M",
+    "description": "Blue hybrid bike, size M. dropper post, clipless pedals.",
+    "price": 320,
+    "city": "Calgary",
+    "posted_at": "2026-08-11",
+    "photo_tags": [
+      "blue frame",
+      "dropper post",
+      "clipless pedals"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L102",
+    "source": "fb_marketplace",
+    "title": "Trek Domane Al 2 red XS",
+    "description": "Red road bike, size XS. rack, fenders, bell.",
+    "price": 800,
+    "city": "Calgary",
+    "posted_at": "2026-08-01",
+    "photo_tags": [
+      "red frame",
+      "rack",
+      "fenders",
+      "bell"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L103",
+    "source": "fb_marketplace",
+    "title": "Escape 3 green M",
+    "description": "Green hybrid bike, size M. clipless pedals, kickstand.",
+    "price": 320,
+    "city": "Calgary",
+    "posted_at": "2026-08-08",
+    "photo_tags": [
+      "green frame",
+      "clipless pedals",
+      "kickstand"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L104",
+    "source": "fb_marketplace",
+    "title": "Marlin 7 blue XS",
+    "description": "Blue mtb bike, size XS. fenders, new tires.",
+    "price": 440,
+    "city": "Okotoks",
+    "posted_at": "2026-08-09",
+    "photo_tags": [
+      "blue frame",
+      "fenders",
+      "new tires"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L105",
+    "source": "fb_marketplace",
+    "title": "Norco Fluid Fs 3 orange M",
+    "description": "Orange mtb bike, size M. bottle cage.",
+    "price": 1120,
+    "city": "Okotoks",
+    "posted_at": "2026-08-14",
+    "photo_tags": [
+      "orange frame",
+      "bottle cage"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L106",
+    "source": "fb_marketplace",
+    "title": "Cannondale Topstone 2 grey S",
+    "description": "Grey gravel bike, size S. bell, fenders.",
+    "price": 1100,
+    "city": "Canmore",
+    "posted_at": "2026-09-06",
+    "photo_tags": [
+      "grey frame",
+      "bell",
+      "fenders"
+    ],
+    "lat": 51.089,
+    "lng": -115.358
+  },
+  {
+    "id": "L107",
+    "source": "kijiji",
+    "title": "Norco Storm 2 white XS",
+    "description": "White mtb bike, size XS. dropper post, rack.",
+    "price": 640,
+    "city": "Calgary",
+    "posted_at": "2026-09-11",
+    "photo_tags": [
+      "white frame",
+      "dropper post",
+      "rack"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L108",
+    "source": "fb_marketplace",
+    "title": "Raleigh Cadent 2 white L",
+    "description": "White hybrid bike, size L. lights, fenders, tubeless.",
+    "price": 420,
+    "city": "Okotoks",
+    "posted_at": "2026-08-24",
+    "photo_tags": [
+      "white frame",
+      "lights",
+      "fenders",
+      "tubeless"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L109",
+    "source": "fb_marketplace",
+    "title": "Trek Marlin 7 grey XL",
+    "description": "Grey mtb bike, size XL. Stock.",
+    "price": 920,
+    "city": "Edmonton",
+    "posted_at": "2026-09-11",
+    "photo_tags": [
+      "grey frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L110",
+    "source": "fb_marketplace",
+    "title": "Cannondale Trail 5 orange XL",
+    "description": "Orange mtb bike, size XL. bell, clipless pedals.",
+    "price": 360,
+    "city": "Chestermere",
+    "posted_at": "2026-08-18",
+    "photo_tags": [
+      "orange frame",
+      "bell",
+      "clipless pedals"
+    ],
+    "lat": 51.05,
+    "lng": -113.822
+  },
+  {
+    "id": "L111",
+    "source": "fb_marketplace",
+    "title": "Santa Cruz Chameleon green L",
+    "description": "Green mtb bike, size L. fenders, clipless pedals, new tires.",
+    "price": 2390,
+    "city": "Airdrie",
+    "posted_at": "2026-09-13",
+    "photo_tags": [
+      "green frame",
+      "fenders",
+      "clipless pedals",
+      "new tires"
+    ],
+    "lat": 51.292,
+    "lng": -114.014
+  },
+  {
+    "id": "L112",
+    "source": "kijiji",
+    "title": "Specialized Rockhopper yellow M",
+    "description": "Yellow mtb bike, size M. bell.",
+    "price": 450,
+    "city": "Calgary",
+    "posted_at": "2026-09-24",
+    "photo_tags": [
+      "yellow frame",
+      "bell"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L113",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Element 30 red S",
+    "description": "Red mtb bike, size S. dropper post, new tires.",
+    "price": 1860,
+    "city": "Calgary",
+    "posted_at": "2026-08-06",
+    "photo_tags": [
+      "red frame",
+      "dropper post",
+      "new tires"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L114",
+    "source": "kijiji",
+    "title": "Santa Cruz Chameleon blue S",
+    "description": "Blue mtb bike, size S. lights.",
+    "price": 1600,
+    "city": "Calgary",
+    "posted_at": "2026-09-19",
+    "photo_tags": [
+      "blue frame",
+      "lights"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L115",
+    "source": "fb_marketplace",
+    "title": "Trek Domane Al 2 yellow XS",
+    "description": "Yellow road bike, size XS. clipless pedals, rack.",
+    "price": 830,
+    "city": "Cochrane",
+    "posted_at": "2026-09-25",
+    "photo_tags": [
+      "yellow frame",
+      "clipless pedals",
+      "rack"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L116",
+    "source": "fb_marketplace",
+    "title": "Kona Rove yellow XL",
+    "description": "Yellow gravel bike, size XL. tubeless, new tires, bottle cage.",
+    "price": 710,
+    "city": "Edmonton",
+    "posted_at": "2026-09-03",
+    "photo_tags": [
+      "yellow frame",
+      "tubeless",
+      "new tires",
+      "bottle cage"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L117",
+    "source": "kijiji",
+    "title": "700c tubeless gravel wheels + orange bar tape bundle",
+    "description": "Tubeless wheels with WTB Riddler tires, plus a roll of orange bar tape and a frame bag. Selling as bundle.",
+    "price": 120,
+    "city": "Calgary",
+    "posted_at": "2026-09-06",
+    "photo_tags": [
+      "wheels",
+      "wtb tires",
+      "orange bar tape",
+      "frame bag"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L118",
+    "source": "kijiji",
+    "title": "Specialized Sirrus X 3.0 orange M",
+    "description": "Orange hybrid bike, size M. bottle cage, new tires.",
+    "price": 930,
+    "city": "Calgary",
+    "posted_at": "2026-09-07",
+    "photo_tags": [
+      "orange frame",
+      "bottle cage",
+      "new tires"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L119",
+    "source": "kijiji",
+    "title": "Specialized Sirrus X 3.0 orange S",
+    "description": "Orange hybrid bike, size S. bottle cage.",
+    "price": 760,
+    "city": "Cochrane",
+    "posted_at": "2026-08-18",
+    "photo_tags": [
+      "orange frame",
+      "bottle cage"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L120",
+    "source": "fb_marketplace",
+    "title": "Kona Dew grey XL",
+    "description": "Grey hybrid bike, size XL. lights, clipless pedals, dropper post.",
+    "price": 340,
+    "city": "Calgary",
+    "posted_at": "2026-08-08",
+    "photo_tags": [
+      "grey frame",
+      "lights",
+      "clipless pedals",
+      "dropper post"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L121",
+    "source": "fb_marketplace",
+    "title": "Trek Fx 2 orange XS",
+    "description": "Orange hybrid bike, size XS. bell, new tires, clipless pedals.",
+    "price": 500,
+    "city": "Calgary",
+    "posted_at": "2026-09-23",
+    "photo_tags": [
+      "orange frame",
+      "bell",
+      "new tires",
+      "clipless pedals"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L122",
+    "source": "fb_marketplace",
+    "title": "Devinci Milano white XL",
+    "description": "White hybrid bike, size XL. fenders, dropper post.",
+    "price": 550,
+    "city": "Calgary",
+    "posted_at": "2026-08-22",
+    "photo_tags": [
+      "white frame",
+      "fenders",
+      "dropper post"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L123",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Element 30 orange L",
+    "description": "Orange mtb bike, size L. Stock.",
+    "price": 1920,
+    "city": "Edmonton",
+    "posted_at": "2026-09-22",
+    "photo_tags": [
+      "orange frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L124",
+    "source": "kijiji",
+    "title": "Cannondale Trail 5 orange S",
+    "description": "Orange mtb bike, size S. bell.",
+    "price": 530,
+    "city": "Edmonton",
+    "posted_at": "2026-09-11",
+    "photo_tags": [
+      "orange frame",
+      "bell"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L125",
+    "source": "kijiji",
+    "title": "Rocky Mountain Soul black XL",
+    "description": "Black mtb bike, size XL. Stock.",
+    "price": 440,
+    "city": "Calgary",
+    "posted_at": "2026-08-25",
+    "photo_tags": [
+      "black frame"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L126",
+    "source": "fb_marketplace",
+    "title": "Santa Cruz Chameleon blue L",
+    "description": "Blue mtb bike, size L. dropper post.",
+    "price": 1500,
+    "city": "Calgary",
+    "posted_at": "2026-08-21",
+    "photo_tags": [
+      "blue frame",
+      "dropper post"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L127",
+    "source": "kijiji",
+    "title": "Santa Cruz Chameleon yellow S",
+    "description": "Yellow mtb bike, size S. dropper post.",
+    "price": 1520,
+    "city": "Calgary",
+    "posted_at": "2026-08-02",
+    "photo_tags": [
+      "yellow frame",
+      "dropper post"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L128",
+    "source": "kijiji",
+    "title": "Santa Cruz Chameleon blue S",
+    "description": "Blue mtb bike, size S. bottle cage, rack, dropper post.",
+    "price": 1960,
+    "city": "Red Deer",
+    "posted_at": "2026-09-20",
+    "photo_tags": [
+      "blue frame",
+      "bottle cage",
+      "rack",
+      "dropper post"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L129",
+    "source": "kijiji",
+    "title": "Storm 2 black S",
+    "description": "Black mtb bike, size S. bell, lights.",
+    "price": 460,
+    "city": "Lethbridge",
+    "posted_at": "2026-09-17",
+    "photo_tags": [
+      "black frame",
+      "bell",
+      "lights"
+    ],
+    "lat": 49.694,
+    "lng": -112.842
+  },
+  {
+    "id": "L130",
+    "source": "fb_marketplace",
+    "title": "Norco Fluid Fs 3 green XL",
+    "description": "Green mtb bike, size XL. dropper post.",
+    "price": 2110,
+    "city": "Cochrane",
+    "posted_at": "2026-08-16",
+    "photo_tags": [
+      "green frame",
+      "dropper post"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L131",
+    "source": "kijiji",
+    "title": "Rocky Mountain Element 30 white S",
+    "description": "White mtb bike, size S. bell, tubeless, bottle cage.",
+    "price": 1460,
+    "city": "Chestermere",
+    "posted_at": "2026-09-04",
+    "photo_tags": [
+      "white frame",
+      "bell",
+      "tubeless",
+      "bottle cage"
+    ],
+    "lat": 51.05,
+    "lng": -113.822
+  },
+  {
+    "id": "L132",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Element 30 blue XS",
+    "description": "Blue mtb bike, size XS. Stock.",
+    "price": 1570,
+    "city": "Red Deer",
+    "posted_at": "2026-09-10",
+    "photo_tags": [
+      "blue frame"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L133",
+    "source": "fb_marketplace",
+    "title": "Trec mountain bike",
+    "description": "good bike rides well rotor needs tune. must go",
+    "price": 250,
+    "city": "Calgary",
+    "posted_at": "2026-09-13",
+    "photo_tags": [
+      "red frame",
+      "black accents",
+      "white saddle",
+      "co-op sticker",
+      "hardtail"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L134",
+    "source": "kijiji",
+    "title": "Giant Escape 3 black M",
+    "description": "Black hybrid bike, size M. rack, lights, kickstand.",
+    "price": 400,
+    "city": "Okotoks",
+    "posted_at": "2026-09-24",
+    "photo_tags": [
+      "black frame",
+      "rack",
+      "lights",
+      "kickstand"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L135",
+    "source": "kijiji",
+    "title": "Giant Contend 3 white L",
+    "description": "White road bike, size L. bell, fenders, bottle cage.",
+    "price": 410,
+    "city": "Calgary",
+    "posted_at": "2026-08-01",
+    "photo_tags": [
+      "white frame",
+      "bell",
+      "fenders",
+      "bottle cage"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L136",
+    "source": "fb_marketplace",
+    "title": "Specialized Sirrus X 3.0 black L",
+    "description": "Black hybrid bike, size L. dropper post.",
+    "price": 1020,
+    "city": "Airdrie",
+    "posted_at": "2026-09-02",
+    "photo_tags": [
+      "black frame",
+      "dropper post"
+    ],
+    "lat": 51.292,
+    "lng": -114.014
+  },
+  {
+    "id": "L137",
+    "source": "kijiji",
+    "title": "Specialized Allez orange L",
+    "description": "Orange road bike, size L. Stock.",
+    "price": 680,
+    "city": "Edmonton",
+    "posted_at": "2026-09-14",
+    "photo_tags": [
+      "orange frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L138",
+    "source": "kijiji",
+    "title": "Cannondale Topstone 2 green XL",
+    "description": "Green gravel bike, size XL. bottle cage, dropper post.",
+    "price": 890,
+    "city": "Canmore",
+    "posted_at": "2026-08-20",
+    "photo_tags": [
+      "green frame",
+      "bottle cage",
+      "dropper post"
+    ],
+    "lat": 51.089,
+    "lng": -115.358
+  },
+  {
+    "id": "L139",
+    "source": "kijiji",
+    "title": "Domane Al 2 blue XL",
+    "description": "Blue road bike, size XL. clipless pedals, new tires.",
+    "price": 770,
+    "city": "Cochrane",
+    "posted_at": "2026-08-08",
+    "photo_tags": [
+      "blue frame",
+      "clipless pedals",
+      "new tires"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L140",
+    "source": "fb_marketplace",
+    "title": "Giant Escape 3 grey XS",
+    "description": "Grey hybrid bike, size XS. clipless pedals, tubeless.",
+    "price": 360,
+    "city": "Red Deer",
+    "posted_at": "2026-09-13",
+    "photo_tags": [
+      "grey frame",
+      "clipless pedals",
+      "tubeless"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L141",
+    "source": "kijiji",
+    "title": "Topstone 2 grey XL",
+    "description": "Grey gravel bike, size XL. dropper post, kickstand, bell.",
+    "price": 1340,
+    "city": "Canmore",
+    "posted_at": "2026-08-09",
+    "photo_tags": [
+      "grey frame",
+      "dropper post",
+      "kickstand",
+      "bell"
+    ],
+    "lat": 51.089,
+    "lng": -115.358
+  },
+  {
+    "id": "L142",
+    "source": "fb_marketplace",
+    "title": "Cannondale Trail 5 yellow L",
+    "description": "Yellow mtb bike, size L. kickstand, bell, dropper post.",
+    "price": 450,
+    "city": "Cochrane",
+    "posted_at": "2026-08-23",
+    "photo_tags": [
+      "yellow frame",
+      "kickstand",
+      "bell",
+      "dropper post"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L143",
+    "source": "kijiji",
+    "title": "Trek Fx 2 white M",
+    "description": "White hybrid bike, size M. bottle cage, lights, dropper post.",
+    "price": 310,
+    "city": "Edmonton",
+    "posted_at": "2026-08-21",
+    "photo_tags": [
+      "white frame",
+      "bottle cage",
+      "lights",
+      "dropper post"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L144",
+    "source": "kijiji",
+    "title": "Rocky Mountain Element 30 black XL",
+    "description": "Black mtb bike, size XL. bottle cage.",
+    "price": 2450,
+    "city": "Red Deer",
+    "posted_at": "2026-09-06",
+    "photo_tags": [
+      "black frame",
+      "bottle cage"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L145",
+    "source": "fb_marketplace",
+    "title": "Cannondale Trail 5 black M",
+    "description": "Black mtb bike, size M. Stock.",
+    "price": 690,
+    "city": "Red Deer",
+    "posted_at": "2026-08-19",
+    "photo_tags": [
+      "black frame"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L146",
+    "source": "kijiji",
+    "title": "Raleigh Cadent 2 red XL",
+    "description": "Red hybrid bike, size XL. Stock.",
+    "price": 460,
+    "city": "Calgary",
+    "posted_at": "2026-08-07",
+    "photo_tags": [
+      "red frame"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L147",
+    "source": "kijiji",
+    "title": "Giant Contend 3 white S",
+    "description": "White road bike, size S. bottle cage.",
+    "price": 600,
+    "city": "Canmore",
+    "posted_at": "2026-08-25",
+    "photo_tags": [
+      "white frame",
+      "bottle cage"
+    ],
+    "lat": 51.089,
+    "lng": -115.358
+  },
+  {
+    "id": "L148",
+    "source": "kijiji",
+    "title": "Kona Rove grey S",
+    "description": "Grey gravel bike, size S. fenders, tubeless.",
+    "price": 1040,
+    "city": "Calgary",
+    "posted_at": "2026-08-22",
+    "photo_tags": [
+      "grey frame",
+      "fenders",
+      "tubeless"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L149",
+    "source": "fb_marketplace",
+    "title": "Talon 2 grey XS",
+    "description": "Grey mtb bike, size XS. bell, clipless pedals, rack.",
+    "price": 540,
+    "city": "Calgary",
+    "posted_at": "2026-08-11",
+    "photo_tags": [
+      "grey frame",
+      "bell",
+      "clipless pedals",
+      "rack"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L150",
+    "source": "fb_marketplace",
+    "title": "Santa Cruz Chameleon green M",
+    "description": "Green mtb bike, size M. bell, new tires, bottle cage.",
+    "price": 2150,
+    "city": "Calgary",
+    "posted_at": "2026-09-04",
+    "photo_tags": [
+      "green frame",
+      "bell",
+      "new tires",
+      "bottle cage"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L151",
+    "source": "fb_marketplace",
+    "title": "Trek Marlin 7 red L",
+    "description": "Red mtb bike, size L. clipless pedals, bell, lights.",
+    "price": 810,
+    "city": "Canmore",
+    "posted_at": "2026-08-15",
+    "photo_tags": [
+      "red frame",
+      "clipless pedals",
+      "bell",
+      "lights"
+    ],
+    "lat": 51.089,
+    "lng": -115.358
+  },
+  {
+    "id": "L152",
+    "source": "kijiji",
+    "title": "Devinci Milano grey M",
+    "description": "Grey hybrid bike, size M. Stock.",
+    "price": 590,
+    "city": "Edmonton",
+    "posted_at": "2026-09-22",
+    "photo_tags": [
+      "grey frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L153",
+    "source": "fb_marketplace",
+    "title": "Marlin 7 black XS",
+    "description": "Black mtb bike, size XS. fenders, rack.",
+    "price": 720,
+    "city": "Calgary",
+    "posted_at": "2026-09-24",
+    "photo_tags": [
+      "black frame",
+      "fenders",
+      "rack"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L154",
+    "source": "kijiji",
+    "title": "Giant Escape 3 orange M",
+    "description": "Orange hybrid bike, size M. bottle cage, kickstand, bell.",
+    "price": 240,
+    "city": "Cochrane",
+    "posted_at": "2026-09-22",
+    "photo_tags": [
+      "orange frame",
+      "bottle cage",
+      "kickstand",
+      "bell"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L155",
+    "source": "kijiji",
+    "title": "Kona Rove yellow S",
+    "description": "Yellow gravel bike, size S. rack, tubeless.",
+    "price": 1120,
+    "city": "Okotoks",
+    "posted_at": "2026-08-16",
+    "photo_tags": [
+      "yellow frame",
+      "rack",
+      "tubeless"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L156",
+    "source": "kijiji",
+    "title": "Specialized Rockhopper green XS",
+    "description": "Green mtb bike, size XS. dropper post.",
+    "price": 400,
+    "city": "Calgary",
+    "posted_at": "2026-08-20",
+    "photo_tags": [
+      "green frame",
+      "dropper post"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L157",
+    "source": "kijiji",
+    "title": "Kona Rove green XS",
+    "description": "Green gravel bike, size XS. bottle cage, new tires.",
+    "price": 680,
+    "city": "Canmore",
+    "posted_at": "2026-08-09",
+    "photo_tags": [
+      "green frame",
+      "bottle cage",
+      "new tires"
+    ],
+    "lat": 51.089,
+    "lng": -115.358
+  },
+  {
+    "id": "L158",
+    "source": "fb_marketplace",
+    "title": "Cannondale Topstone 2 red M",
+    "description": "Red gravel bike, size M. tubeless, kickstand, bell.",
+    "price": 940,
+    "city": "Calgary",
+    "posted_at": "2026-08-25",
+    "photo_tags": [
+      "red frame",
+      "tubeless",
+      "kickstand",
+      "bell"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L159",
+    "source": "fb_marketplace",
+    "title": "Trek Marlin 7 red small",
+    "description": "Kids outgrew it. Red, size S, stock saddle. Serial WTU991A1180K.",
+    "price": 650,
+    "city": "Airdrie",
+    "posted_at": "2026-09-16",
+    "photo_tags": [
+      "red frame",
+      "black saddle",
+      "hardtail"
+    ],
+    "lat": 51.292,
+    "lng": -114.014
+  },
+  {
+    "id": "L160",
+    "source": "kijiji",
+    "title": "Giant Contend 3 red XL",
+    "description": "Red road bike, size XL. clipless pedals, kickstand, fenders.",
+    "price": 620,
+    "city": "Calgary",
+    "posted_at": "2026-09-20",
+    "photo_tags": [
+      "red frame",
+      "clipless pedals",
+      "kickstand",
+      "fenders"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L161",
+    "source": "fb_marketplace",
+    "title": "Specialized Sirrus X 3.0 blue S",
+    "description": "Blue hybrid bike, size S. new tires, fenders, kickstand.",
+    "price": 640,
+    "city": "Calgary",
+    "posted_at": "2026-09-08",
+    "photo_tags": [
+      "blue frame",
+      "new tires",
+      "fenders",
+      "kickstand"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L162",
+    "source": "fb_marketplace",
+    "title": "Giant Talon 2 white L",
+    "description": "White mtb bike, size L. Stock.",
+    "price": 560,
+    "city": "Cochrane",
+    "posted_at": "2026-09-22",
+    "photo_tags": [
+      "white frame"
+    ],
+    "lat": 51.189,
+    "lng": -114.467
+  },
+  {
+    "id": "L163",
+    "source": "fb_marketplace",
+    "title": "Devinci Milano white L",
+    "description": "White hybrid bike, size L. tubeless.",
+    "price": 560,
+    "city": "Okotoks",
+    "posted_at": "2026-09-03",
+    "photo_tags": [
+      "white frame",
+      "tubeless"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L164",
+    "source": "kijiji",
+    "title": "Giant Contend 3 black M",
+    "description": "Black road bike, size M. lights, fenders.",
+    "price": 830,
+    "city": "Edmonton",
+    "posted_at": "2026-09-10",
+    "photo_tags": [
+      "black frame",
+      "lights",
+      "fenders"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L165",
+    "source": "fb_marketplace",
+    "title": "Norco Storm 2 white XL",
+    "description": "White mtb bike, size XL. kickstand, dropper post.",
+    "price": 560,
+    "city": "Okotoks",
+    "posted_at": "2026-09-19",
+    "photo_tags": [
+      "white frame",
+      "kickstand",
+      "dropper post"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L166",
+    "source": "fb_marketplace",
+    "title": "Giant Escape 3 grey XL",
+    "description": "Grey hybrid bike, size XL. rack.",
+    "price": 330,
+    "city": "Calgary",
+    "posted_at": "2026-09-21",
+    "photo_tags": [
+      "grey frame",
+      "rack"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L167",
+    "source": "fb_marketplace",
+    "title": "Giant Contend 3 white S",
+    "description": "White road bike, size S. new tires, tubeless, clipless pedals.",
+    "price": 510,
+    "city": "Calgary",
+    "posted_at": "2026-09-14",
+    "photo_tags": [
+      "white frame",
+      "new tires",
+      "tubeless",
+      "clipless pedals"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L168",
+    "source": "kijiji",
+    "title": "Domane Al 2 blue M",
+    "description": "Blue road bike, size M. clipless pedals, bottle cage.",
+    "price": 590,
+    "city": "Edmonton",
+    "posted_at": "2026-09-17",
+    "photo_tags": [
+      "blue frame",
+      "clipless pedals",
+      "bottle cage"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L169",
+    "source": "fb_marketplace",
+    "title": "Talon 2 grey S",
+    "description": "Grey mtb bike, size S. Stock.",
+    "price": 420,
+    "city": "Edmonton",
+    "posted_at": "2026-08-19",
+    "photo_tags": [
+      "grey frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L170",
+    "source": "kijiji",
+    "title": "Specialized Sirrus X 3.0 red M",
+    "description": "Red hybrid bike, size M. fenders.",
+    "price": 570,
+    "city": "Calgary",
+    "posted_at": "2026-08-04",
+    "photo_tags": [
+      "red frame",
+      "fenders"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L171",
+    "source": "fb_marketplace",
+    "title": "Giant Talon 2 white XL",
+    "description": "White mtb bike, size XL. lights, new tires, fenders.",
+    "price": 710,
+    "city": "Calgary",
+    "posted_at": "2026-09-08",
+    "photo_tags": [
+      "white frame",
+      "lights",
+      "new tires",
+      "fenders"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L172",
+    "source": "fb_marketplace",
+    "title": "Trek Domane Al 2 orange L",
+    "description": "Orange road bike, size L. Stock.",
+    "price": 670,
+    "city": "Okotoks",
+    "posted_at": "2026-08-19",
+    "photo_tags": [
+      "orange frame"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L173",
+    "source": "fb_marketplace",
+    "title": "Norco Fluid Fs 3 blue M",
+    "description": "Blue mtb bike, size M. fenders.",
+    "price": 1860,
+    "city": "Edmonton",
+    "posted_at": "2026-09-18",
+    "photo_tags": [
+      "blue frame",
+      "fenders"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L174",
+    "source": "kijiji",
+    "title": "Devinci Milano green XL",
+    "description": "Green hybrid bike, size XL. Stock.",
+    "price": 470,
+    "city": "Red Deer",
+    "posted_at": "2026-09-14",
+    "photo_tags": [
+      "green frame"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L175",
+    "source": "kijiji",
+    "title": "Norco Fluid Fs 3 red XL",
+    "description": "Red mtb bike, size XL. rack, bell.",
+    "price": 2050,
+    "city": "Edmonton",
+    "posted_at": "2026-09-11",
+    "photo_tags": [
+      "red frame",
+      "rack",
+      "bell"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L176",
+    "source": "fb_marketplace",
+    "title": "Fx 2 black L",
+    "description": "Black hybrid bike, size L. clipless pedals, bottle cage, lights.",
+    "price": 320,
+    "city": "Red Deer",
+    "posted_at": "2026-08-01",
+    "photo_tags": [
+      "black frame",
+      "clipless pedals",
+      "bottle cage",
+      "lights"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L177",
+    "source": "kijiji",
+    "title": "Kona Dew black M",
+    "description": "Black hybrid bike, size M. Stock.",
+    "price": 470,
+    "city": "Edmonton",
+    "posted_at": "2026-09-09",
+    "photo_tags": [
+      "black frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L178",
+    "source": "kijiji",
+    "title": "Marlin 7 yellow M",
+    "description": "Yellow mtb bike, size M. kickstand.",
+    "price": 740,
+    "city": "Calgary",
+    "posted_at": "2026-09-06",
+    "photo_tags": [
+      "yellow frame",
+      "kickstand"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L179",
+    "source": "kijiji",
+    "title": "Giant Talon 2 grey S",
+    "description": "Grey mtb bike, size S. lights, dropper post.",
+    "price": 620,
+    "city": "Calgary",
+    "posted_at": "2026-08-11",
+    "photo_tags": [
+      "grey frame",
+      "lights",
+      "dropper post"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L180",
+    "source": "fb_marketplace",
+    "title": "Cannondale Trail 5 white M",
+    "description": "White mtb bike, size M. lights, bottle cage, new tires.",
+    "price": 480,
+    "city": "Lethbridge",
+    "posted_at": "2026-09-12",
+    "photo_tags": [
+      "white frame",
+      "lights",
+      "bottle cage",
+      "new tires"
+    ],
+    "lat": 49.694,
+    "lng": -112.842
+  },
+  {
+    "id": "L181",
+    "source": "fb_marketplace",
+    "title": "Trek Marlin 7 blue S",
+    "description": "Blue mtb bike, size S. lights.",
+    "price": 780,
+    "city": "Lethbridge",
+    "posted_at": "2026-08-19",
+    "photo_tags": [
+      "blue frame",
+      "lights"
+    ],
+    "lat": 49.694,
+    "lng": -112.842
+  },
+  {
+    "id": "L182",
+    "source": "kijiji",
+    "title": "Norco Storm 2 red S",
+    "description": "Red mtb bike, size S. bell.",
+    "price": 330,
+    "city": "Calgary",
+    "posted_at": "2026-09-02",
+    "photo_tags": [
+      "red frame",
+      "bell"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L183",
+    "source": "kijiji",
+    "title": "Specialized Rockhopper orange S",
+    "description": "Orange mtb bike, size S. Stock.",
+    "price": 450,
+    "city": "Red Deer",
+    "posted_at": "2026-09-02",
+    "photo_tags": [
+      "orange frame"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L184",
+    "source": "kijiji",
+    "title": "Specialized Allez black S",
+    "description": "Black road bike, size S. Stock.",
+    "price": 650,
+    "city": "Calgary",
+    "posted_at": "2026-09-23",
+    "photo_tags": [
+      "black frame"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L185",
+    "source": "fb_marketplace",
+    "title": "Santa Cruz Chameleon yellow S",
+    "description": "Yellow mtb bike, size S. dropper post.",
+    "price": 2430,
+    "city": "Edmonton",
+    "posted_at": "2026-09-05",
+    "photo_tags": [
+      "yellow frame",
+      "dropper post"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L186",
+    "source": "fb_marketplace",
+    "title": "Giant Talon 2 black S",
+    "description": "Black mtb bike, size S. kickstand, bottle cage, new tires.",
+    "price": 680,
+    "city": "Edmonton",
+    "posted_at": "2026-08-08",
+    "photo_tags": [
+      "black frame",
+      "kickstand",
+      "bottle cage",
+      "new tires"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L187",
+    "source": "fb_marketplace",
+    "title": "Trek Fx 2 blue L",
+    "description": "Blue hybrid bike, size L. kickstand.",
+    "price": 650,
+    "city": "Edmonton",
+    "posted_at": "2026-09-13",
+    "photo_tags": [
+      "blue frame",
+      "kickstand"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L188",
+    "source": "kijiji",
+    "title": "Escape 3 green M",
+    "description": "Green hybrid bike, size M. rack, dropper post, lights.",
+    "price": 260,
+    "city": "Calgary",
+    "posted_at": "2026-08-25",
+    "photo_tags": [
+      "green frame",
+      "rack",
+      "dropper post",
+      "lights"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L189",
+    "source": "kijiji",
+    "title": "Raleigh Cadent 2 orange S",
+    "description": "Orange hybrid bike, size S. new tires, lights, kickstand.",
+    "price": 400,
+    "city": "Calgary",
+    "posted_at": "2026-09-12",
+    "photo_tags": [
+      "orange frame",
+      "new tires",
+      "lights",
+      "kickstand"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L190",
+    "source": "kijiji",
+    "title": "Norco Fluid Fs 3 white L",
+    "description": "White mtb bike, size L. bottle cage, lights, rack.",
+    "price": 1860,
+    "city": "Edmonton",
+    "posted_at": "2026-09-16",
+    "photo_tags": [
+      "white frame",
+      "bottle cage",
+      "lights",
+      "rack"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L191",
+    "source": "kijiji",
+    "title": "Cannondale Topstone gravel bike green 54",
+    "description": "Green Cannondale Topstone 2, 54cm. New wheels. $600.",
+    "price": 600,
+    "city": "Edmonton",
+    "posted_at": "2026-09-14",
+    "photo_tags": [
+      "green frame",
+      "black bar tape",
+      "drop bar"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L192",
+    "source": "fb_marketplace",
+    "title": "Devinci Milano red M",
+    "description": "Red hybrid bike, size M. Stock.",
+    "price": 520,
+    "city": "Edmonton",
+    "posted_at": "2026-09-06",
+    "photo_tags": [
+      "red frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L193",
+    "source": "fb_marketplace",
+    "title": "Santa Cruz Chameleon white XS",
+    "description": "White mtb bike, size XS. Stock.",
+    "price": 2460,
+    "city": "Calgary",
+    "posted_at": "2026-08-09",
+    "photo_tags": [
+      "white frame"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L194",
+    "source": "fb_marketplace",
+    "title": "Specialized Sirrus X 3.0 black M",
+    "description": "Black Sirrus X, size M. Selling because I got an e-bike. $600.",
+    "price": 600,
+    "city": "Calgary",
+    "posted_at": "2026-09-16",
+    "photo_tags": [
+      "black frame",
+      "flat bar"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L195",
+    "source": "fb_marketplace",
+    "title": "Trek Marlin 7 black L",
+    "description": "Black mtb bike, size L. dropper post.",
+    "price": 810,
+    "city": "Calgary",
+    "posted_at": "2026-09-25",
+    "photo_tags": [
+      "black frame",
+      "dropper post"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L196",
+    "source": "kijiji",
+    "title": "Rocky Mountain Element 30 orange XS",
+    "description": "Orange mtb bike, size XS. clipless pedals, lights.",
+    "price": 2200,
+    "city": "Red Deer",
+    "posted_at": "2026-08-23",
+    "photo_tags": [
+      "orange frame",
+      "clipless pedals",
+      "lights"
+    ],
+    "lat": 52.268,
+    "lng": -113.811
+  },
+  {
+    "id": "L197",
+    "source": "kijiji",
+    "title": "Trek Domane Al 2 green L",
+    "description": "Green road bike, size L. kickstand, clipless pedals.",
+    "price": 460,
+    "city": "Airdrie",
+    "posted_at": "2026-09-17",
+    "photo_tags": [
+      "green frame",
+      "kickstand",
+      "clipless pedals"
+    ],
+    "lat": 51.292,
+    "lng": -114.014
+  },
+  {
+    "id": "L198",
+    "source": "kijiji",
+    "title": "Talon 2 blue M",
+    "description": "Blue mtb bike, size M. Stock.",
+    "price": 600,
+    "city": "Okotoks",
+    "posted_at": "2026-09-05",
+    "photo_tags": [
+      "blue frame"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  },
+  {
+    "id": "L199",
+    "source": "fb_marketplace",
+    "title": "Trek Fx 2 blue XL",
+    "description": "Blue hybrid bike, size XL. bottle cage.",
+    "price": 410,
+    "city": "Edmonton",
+    "posted_at": "2026-09-22",
+    "photo_tags": [
+      "blue frame",
+      "bottle cage"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L200",
+    "source": "fb_marketplace",
+    "title": "Trek Fx 2 green XS",
+    "description": "Green hybrid bike, size XS. clipless pedals, dropper post.",
+    "price": 320,
+    "city": "Airdrie",
+    "posted_at": "2026-09-19",
+    "photo_tags": [
+      "green frame",
+      "clipless pedals",
+      "dropper post"
+    ],
+    "lat": 51.292,
+    "lng": -114.014
+  },
+  {
+    "id": "L201",
+    "source": "fb_marketplace",
+    "title": "Giant Escape 3 grey M",
+    "description": "Grey Giant Escape commuter, kickstand, no basket. $300.",
+    "price": 300,
+    "city": "Calgary",
+    "posted_at": "2026-09-20",
+    "photo_tags": [
+      "grey frame",
+      "kickstand",
+      "flat bar"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L202",
+    "source": "kijiji",
+    "title": "Dew white L",
+    "description": "White hybrid bike, size L. new tires, lights.",
+    "price": 320,
+    "city": "Calgary",
+    "posted_at": "2026-08-09",
+    "photo_tags": [
+      "white frame",
+      "new tires",
+      "lights"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L203",
+    "source": "fb_marketplace",
+    "title": "Trek Marlin 7 yellow L",
+    "description": "Yellow mtb bike, size L. rack.",
+    "price": 630,
+    "city": "Calgary",
+    "posted_at": "2026-08-23",
+    "photo_tags": [
+      "yellow frame",
+      "rack"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L204",
+    "source": "fb_marketplace",
+    "title": "Specialized Sirrus X 3.0 white S",
+    "description": "White hybrid bike, size S. Stock.",
+    "price": 700,
+    "city": "Edmonton",
+    "posted_at": "2026-08-11",
+    "photo_tags": [
+      "white frame"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L205",
+    "source": "fb_marketplace",
+    "title": "Rocky Mountain Soul grey S",
+    "description": "Grey mtb bike, size S. new tires, lights, tubeless.",
+    "price": 410,
+    "city": "Edmonton",
+    "posted_at": "2026-09-24",
+    "photo_tags": [
+      "grey frame",
+      "new tires",
+      "lights",
+      "tubeless"
+    ],
+    "lat": 53.546,
+    "lng": -113.494
+  },
+  {
+    "id": "L206",
+    "source": "kijiji",
+    "title": "Rocky Mountain Element 30 yellow S",
+    "description": "Yellow mtb bike, size S. lights, bell.",
+    "price": 2430,
+    "city": "Calgary",
+    "posted_at": "2026-09-08",
+    "photo_tags": [
+      "yellow frame",
+      "lights",
+      "bell"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L207",
+    "source": "kijiji",
+    "title": "Raleigh Cadent 2 red L",
+    "description": "Red hybrid bike, size L. Stock.",
+    "price": 240,
+    "city": "Calgary",
+    "posted_at": "2026-08-14",
+    "photo_tags": [
+      "red frame"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L208",
+    "source": "kijiji",
+    "title": "Rocky Mountain Element 30 blue L",
+    "description": "Rocky Element, blue, L. Fox fork, dropper. Stored indoors. $2300.",
+    "price": 2300,
+    "city": "Canmore",
+    "posted_at": "2026-08-10",
+    "photo_tags": [
+      "blue frame",
+      "full suspension",
+      "fox fork",
+      "black pedals"
+    ],
+    "lat": 51.089,
+    "lng": -115.358
+  },
+  {
+    "id": "L209",
+    "source": "fb_marketplace",
+    "title": "Raleigh Cadent 2 blue L",
+    "description": "Blue hybrid bike, size L. Stock.",
+    "price": 320,
+    "city": "Lethbridge",
+    "posted_at": "2026-08-22",
+    "photo_tags": [
+      "blue frame"
+    ],
+    "lat": 49.694,
+    "lng": -112.842
+  },
+  {
+    "id": "L210",
+    "source": "fb_marketplace",
+    "title": "Specialized Sirrus X 3.0 grey XL",
+    "description": "Grey hybrid bike, size XL. rack.",
+    "price": 710,
+    "city": "Calgary",
+    "posted_at": "2026-08-06",
+    "photo_tags": [
+      "grey frame",
+      "rack"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L211",
+    "source": "fb_marketplace",
+    "title": "Kona Dew red L",
+    "description": "Red hybrid bike, size L. kickstand, clipless pedals, new tires.",
+    "price": 320,
+    "city": "Calgary",
+    "posted_at": "2026-09-01",
+    "photo_tags": [
+      "red frame",
+      "kickstand",
+      "clipless pedals",
+      "new tires"
+    ],
+    "lat": 51.045,
+    "lng": -114.057
+  },
+  {
+    "id": "L212",
+    "source": "fb_marketplace",
+    "title": "Santa Cruz Chameleon blue M",
+    "description": "Blue mtb bike, size M. lights, bell, kickstand.",
+    "price": 2600,
+    "city": "Okotoks",
+    "posted_at": "2026-08-20",
+    "photo_tags": [
+      "blue frame",
+      "lights",
+      "bell",
+      "kickstand"
+    ],
+    "lat": 50.726,
+    "lng": -113.975
+  }
+]
