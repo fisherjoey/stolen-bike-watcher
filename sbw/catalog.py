@@ -56,7 +56,10 @@ COLOR_SYNONYMS = {
     "green": ["green", "olive", "alpine", "sage"],
     "white": ["white"],
     "orange": ["orange"],
-    "yellow": ["yellow"],
+    "yellow": ["yellow", "gold"],
+    "brown": ["brown", "tan", "bronze"],
+    "purple": ["purple", "violet"],
+    "pink": ["pink"],
 }
 
 PARTS_WORDS = [

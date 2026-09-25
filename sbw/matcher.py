@@ -7,6 +7,7 @@ import re
 from dataclasses import dataclass, field
 from datetime import date
 from difflib import SequenceMatcher
+from functools import lru_cache
 
 from .catalog import (BRAND_ALIASES, CATEGORY_WORDS, COLOR_SYNONYMS, MODELS,
                       PARTS_WORDS, URGENCY_WORDS)
@@ -15,6 +16,8 @@ from .geo import km_between
 STOPWORDS = {"a", "an", "the", "on", "with", "and", "bike"}
 SIZE_WORDS = {"xs": "XS", "extra small": "XS", "small": "S", "medium": "M",
               "large": "L", "extra large": "XL", "xl": "XL"}
+GENERIC_MODEL_WORDS = {"fat", "bike", "mountain", "road", "city", "electric", "e", "pro", "sport",
+                       "hybrid", "cruiser", "kids", "junior", "mini", "classic", "comp"}
 SERIAL_RE = re.compile(r"\b(?=[a-z0-9]*\d)(?=[a-z0-9]*[a-z])[a-z0-9]{9,}\b")
 
 W = {
@@ -36,6 +39,8 @@ class Match:
     distance_km: float
     reasons: list = field(default_factory=list)
     distinguishing: bool = False  # evidence beyond make/model/colour
+    model_hit: bool = False
+    is_parts: bool = False
 
     @property
     def tier(self):
@@ -43,7 +48,9 @@ class Match:
             return "near-certain"
         if self.score >= 4 and self.distinguishing:
             return "strong"
-        if self.score >= 3:
+        # A parts listing needs the owner's features; brand + colour alone
+        # describes hundreds of listings.
+        if self.score >= 3 and not self.is_parts and (self.model_hit or self.distinguishing):
             return "worth a look"
         return None
 
@@ -76,6 +83,7 @@ def find_size(text):
     return m.group(1) if m else None
 
 
+@lru_cache(maxsize=None)
 def find_brands(text):
     found = {b for b, aliases in BRAND_ALIASES.items() if any(has_phrase(text, a) for a in aliases)}
     fuzzy = set()
@@ -131,7 +139,7 @@ def score(report, listing, radius_km=100, max_days=120, rarity=None):
 
     text = haystack(listing)
     brand = report["manufacturer_name"].lower()
-    model = report["frame_model"].lower()
+    model = (report.get("frame_model") or "").lower()
     category, used_value = MODELS.get((brand, model), (None, None))
     m = Match(listing, 0.0, dist)
 
@@ -140,8 +148,8 @@ def score(report, listing, radius_km=100, max_days=120, rarity=None):
         m.reasons.append(f"{W[key] * credit:+.1f} {why}")
 
     # Serial number: the only thing that proves it outright.
-    serial = report["serial"].lower()
-    if serial in text.replace(" ", ""):
+    serial = re.sub(r"[^a-z0-9]", "", (report.get("serial") or "").lower())
+    if len(serial) >= 5 and serial in text.replace(" ", "").replace("-", ""):
         add("serial_match", "serial number matches")
     else:
         other = [s for s in SERIAL_RE.findall(text) if s != serial]
@@ -157,16 +165,22 @@ def score(report, listing, radius_km=100, max_days=120, rarity=None):
     elif brands:
         add("brand_conflict", f"different brand ({', '.join(sorted(brands))})")
 
-    if has_phrase(text, model):
+    if not model:
+        pass
+    elif has_phrase(text, model):
         add("model", f"model {report['frame_model']}")
-    elif has_phrase(text, model.split()[0]):
+        m.model_hit = True
+    elif (len(model.split()[0]) >= 3 and model.split()[0] not in GENERIC_MODEL_WORDS
+          and has_phrase(text, model.split()[0])):
         add("model_partial", f"model name '{model.split()[0]}'")
+        m.model_hit = True
     elif brand in brands:
         others = [mo for (b, mo) in MODELS if b == brand and mo != model and has_phrase(text, mo.split()[0])]
         if others:
             add("model_conflict", f"different model ({others[0]})")
 
-    is_parts = any(has_phrase(text, w) for w in PARTS_WORDS)
+    is_parts = listing.get("is_parts") or any(has_phrase(text, w) for w in PARTS_WORDS)
+    m.is_parts = bool(is_parts)
 
     # Colour: a mismatch is weak evidence, bikes get repainted.
     colors = set() if is_parts else find_colors(text)
@@ -226,8 +240,9 @@ def baseline_hit(report, listing, radius_km=100, max_days=120):
     if km_between(report["stolen_coordinates"], (listing["lat"], listing["lng"])) > radius_km:
         return False
     text = haystack(listing)
+    model = (report.get("frame_model") or "").lower()
     return (has_phrase(text, report["manufacturer_name"].lower())
-            and has_phrase(text, report["frame_model"].lower().split()[0]))
+            and bool(model) and has_phrase(text, model.split()[0]))
 
 
 def watch(report, listings, radius_km=100):
